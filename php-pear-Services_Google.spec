@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1.1
-Release:	9
+Release:	10
 Summary:	Provides access to the Google Web APIs
 License:	PHP License
 Group:		Development/PHP
